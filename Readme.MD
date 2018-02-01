@@ -10,7 +10,7 @@
 
 
 ### reporting文档
-* Centrixlink reporting API旨在为广告商及发布商提供一种程序方法，可供访问显示在控制板上的数据，请使用以下文档：
+* Centrixlink reporting API旨在为广告商及发布商提供一种程序方法，可供访问显示在控制板上的数据，请使用以下文档（推荐使用v2.0版本，v1.0版本不再维护和更新）：
 
   [Centrixlink Reporting API v2.0.pdf](https://github.com/centrixlink/Centrixlink-Docs/blob/master/Centrixlink%20Reporting%20API%20v2.0.pdf)
 
